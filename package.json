@@ -1,0 +1,29 @@
+{
+  "name": "word-frequency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "polymer serve",
+    "build": "polymer build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaseyhinton/word-frequency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaseyhinton/word-frequency/issues"
+  },
+  "homepage": "https://github.com/kaseyhinton/word-frequency#readme",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.4",
+    "app-datepicker": "^4.0.0-rc.24",
+    "lit-element": "^2.1.0"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.9.3"
+  }
+}
